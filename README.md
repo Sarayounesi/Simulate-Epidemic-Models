@@ -4,25 +4,26 @@
 This repository contains solutions for the assignment focused on simulating epidemic models on network models.
 
 Assignment Tasks
-1. 
+
+------------------------- 
 Simulate Two Epidemic Models on Two Network Models
 •  Four Simulation Scenarios: Conduct simulations for two epidemic models on two different network models.
 
 •  Example: SIRS epidemic model on Barabási–Albert (BA) network model.
 
-1. 
+-------------------------
 Epidemic Models
 •  SIRS Model: Susceptible-Infected-Recovered-Susceptible model.
 
 •  Other Model: Choose another epidemic model for simulation.
 
-1. 
+-------------------------
 Network Models
 •  Barabási–Albert (BA) Network: Scale-free network model.
 
 •  Other Network Model: Choose another network model for simulation.
 
-1. 
+-------------------------
 Simulation Scenarios
 •  Conduct simulations for each combination of epidemic and network models.
 
